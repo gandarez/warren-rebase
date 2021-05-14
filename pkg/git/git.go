@@ -2,6 +2,6 @@ package git
 
 import "fmt"
 
-func PrintVersion() {
-	fmt.Println("v2.0.0")
+func PrintGitVersion() {
+	fmt.Println("v9.5.4")
 }
